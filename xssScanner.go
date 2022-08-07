@@ -15,7 +15,7 @@ func main(){
 
 	colorReset := "\033[0m"
 	colorRed := "\033[31m"
-  colorGreen := "\033[32m"
+        colorGreen := "\033[32m"
 
 	sc := bufio.NewScanner(os.Stdin)
 	jobs := make(chan string)
@@ -39,9 +39,9 @@ func main(){
 	   			sb := string(body)
 	   			check_result := strings.Contains(sb , "alert(1)")
 	   			if check_result != false {
-	   				fmt.Println(string(colorRed),"Vulnerable To XSS:", domain,string(colorReset))
+	   				fmt.Println(string(colorRed),"Vulnerable endpoint:", domain,string(colorReset))
 	   			}else{
-	   				fmt.Println(string(colorGreen),"Not Vulnerable To XSS:", domain, string(colorReset))
+	   				fmt.Println(string(colorGreen),"Not vulnerable:", domain, string(colorReset))
 	   			}
 
 			}
