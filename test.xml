@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed
+	xmlns='http://www.w3.org/2005/Atom'
+	xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/'
+	xmlns:gphoto='http://schemas.google.com/photos/2007'>
+	<id>https://picasaweb.google.com/data/feed/api/user/104344814648657430020</id>
+	<updated>1970-01-01T00:00:00.000Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/photos/2007#user'/>
+	<title type='text'>104344814648657430020</title>
+	<subtitle type='text'/>
+	<icon>https://lh3.googleusercontent.com/-dYNzSoq1HcY/AAAAAAAAAAI/AAAAAAAAAAA/xMRgyvo3iRw/s64-c/104344814648657430020.jpg</icon>
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/104344814648657430020'/>
+	<link rel='alternate' type='text/html' href='https://picasaweb.google.com/104344814648657430020'/>
+	<link rel='http://schemas.google.com/photos/2007#slideshow' type='application/x-shockwave-flash' href='https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&amp;RGB=0x000000&amp;feed=https://picasaweb.google.com/data/feed/api/user/104344814648657430020?alt%3Drss'/>
+	<link rel='self' type='application/atom+xml' href='https://picasaweb.google.com/data/feed/api/user/104344814648657430020?start-index=1&amp;max-results=1000'/>
+	<author>
+		<name>Patrunning Club</name>
+		<uri>https://picasaweb.google.com/104344814648657430020</uri>
+	</author>
+	<generator version='1.00' uri='http://picasaweb.google.com/'>Picasaweb</generator>
+	<openSearch:totalResults>0</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>1000</openSearch:itemsPerPage>
+	<gphoto:user>104344814648657430020</gphoto:user>
+	<gphoto:nickname>Patrunning Club</gphoto:nickname>
+	<gphoto:thumbnail>https://lh3.googleusercontent.com/-dYNzSoq1HcY/AAAAAAAAAAI/AAAAAAAAAAA/xMRgyvo3iRw/s64-c/104344814648657430020.jpg</gphoto:thumbnail>
+</feed>
